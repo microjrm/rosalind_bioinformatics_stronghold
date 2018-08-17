@@ -8,3 +8,4 @@ this repository.
 Problems:
 1. Counting DNA Nucleotides 
 2. Transcribing DNA to RNA
+3. Complementing a Strand of DNA
