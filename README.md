@@ -6,4 +6,5 @@ level and progressively get more difficult.  My goal is to complete each problem
 this repository.  
 
 Problems:
-1. Counting DNA Nucleotides
+1. Counting DNA Nucleotides 
+2. Transcribing DNA to RNA
